@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C447C,100:1D9E75&height=200&section=header&text=بسام&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Python%20Engineer%20%7C%20Pipeline%20Specialist&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C447C,100:1D9E75&height=200&section=header&text=Bassam%20Tarek&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Python%20Engineer%20%7C%20Pipeline%20Specialist&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 ---
 
 <div align="right">
 
-## 👋 مرحبًا، أنا بسام
+## 👋 مرحبًا، أنا Bassam Tarek
 
 > **"البيانات لا تتحدث إلا إذا قمت بتنظيفها وتنظيمها وسؤالها الأسئلة الصحيحة."**
 
@@ -41,8 +41,10 @@
 ## ⚙️ منهجيتي في العمل
 
 <div align="right">
-جمع البيانات → تنظيف وتجهيز → تحليل استكشافي → نمذجة → تقديم النتائج
 
+```
+جمع البيانات  →  تنظيف وتجهيز  →  تحليل استكشافي  →  نمذجة  →  تقديم النتائج
+```
 
 | الخطوة | الأدوات | الهدف |
 | :--- | :--- | :--- |
@@ -109,18 +111,6 @@
 | 🐍 **بيئة معزولة** | Conda لعزل البيئات ومنع تعارض المكتبات |
 | 📝 **التوثيق** | `README.md` لكل مشروع: المشكلة، التشغيل، النتائج |
 | 🛡️ **التحكم في الأخطاء** | `try/except` · Logging · إعادة محاولة ذكية |
-
-</div>
-
----
-
-## 📊 إحصائيات GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BASSAM-1995&show_icons=true&theme=tokyonight&locale=ar&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=0C447C&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BASSAM-1995&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=ffffff)
 
 </div>
 
